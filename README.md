@@ -4,7 +4,7 @@ This repo is created for the submission of Web Development internship project gi
 
 Task 1: Landing Page
 
-Tech stacks used: HTML CSS 
+Tech stacks used: HTML CSS JAVASCRIPT
 
 Task 2: Portfolio
 
