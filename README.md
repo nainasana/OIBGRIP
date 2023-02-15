@@ -1,15 +1,19 @@
 # OIBGRIP
 
-This repo is created for the submission of Web Development internship project given by Oasis Infobyte (Level 1)
+![oasis](https://user-images.githubusercontent.com/104092313/218987288-6d927833-c70c-47f0-877e-179fc2093f07.jpeg)
 
-Task 1: Landing Page
+**[Oasis Infobyte](oasisinfobyte.io) Web Development and Designing Internship Project (Level-1).**
+
+# Task Sections (Level-1)
+
+## Task 1: Landing Page
 
 Tech stacks used: HTML CSS JAVASCRIPT
 
-Task 2: Portfolio
+## Task 2: Portfolio
 
 Teck stacks used: HTML CSS
 
-Task 3: Temperature converter website
+## Task 3: Temperature converter website
 
 Teck stacks used: HTML CSS JAVASCRIPT
