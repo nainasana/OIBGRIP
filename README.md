@@ -14,7 +14,7 @@ Tech stacks used: HTML CSS JAVASCRIPT
  
 Task 2 in [OIBGRIP Taskno.2](https://github.com/nainasana/OIBGRIP-Taskno.2)
 
-Tech stacks used: HTML CSS JAVASCRIPT NODE REACT PHP
+Tech stacks used: HTML CSS JAVASCRIPT NODEJS PHP
 
 ## Task 3: Temperature converter website
 
