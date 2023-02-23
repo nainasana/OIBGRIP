@@ -12,7 +12,7 @@ Tech stacks used: HTML CSS JAVASCRIPT
 
 ## Task 2: Portfolio
  
-Task 2 in [OIBGRIP Taskno.2]
+Task 2 in [OIBGRIP Taskno.2](https://github.com/user/repo/blob/branch/other_file.md)
 
 Teck stacks used: HTML CSS
 
