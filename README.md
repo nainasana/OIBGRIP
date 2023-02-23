@@ -11,6 +11,8 @@
 Tech stacks used: HTML CSS JAVASCRIPT
 
 ## Task 2: Portfolio
+ 
+Task 2 in [OIBGRIP Taskno.2]
 
 Teck stacks used: HTML CSS
 
