@@ -1,9 +1,10 @@
 # OIBGRIP
-## Connect with me in here👉 [NainaSana](https://www.linkedin.com/in/nainasana-shaik/)
 
 ![oasis](https://user-images.githubusercontent.com/104092313/218987288-6d927833-c70c-47f0-877e-179fc2093f07.jpeg)
 
 **[Oasis Infobyte](oasisinfobyte.io) Web Development and Designing Internship Project (Level-1).**
+
+## Connect with me in here👉 [NainaSana](https://www.linkedin.com/in/nainasana-shaik/)
 
 # Task Sections (Level-1)
 
